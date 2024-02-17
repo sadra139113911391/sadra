@@ -8,6 +8,7 @@
 | `https://1.1.1.1/` <br/>`https://1.1.1.1/` | `https://1.1.1.1/` <br/>`https://1.1.1.1/` |
 
 Refer to [Open](https://1.1.1.1/) to learn how to use 1.1.1.1 in an encrypted way.
+Refer to [Open](https://www.google.com/) to learn how to use 1.1.1.1 in an encrypted way.
 
 ---
 
