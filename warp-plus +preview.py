@@ -165,26 +165,19 @@ for proxy_url in proxy_list:
 		else:
 			b += 1
 	except Exception as e:
-		print(f"Proxy: {proxy_url} - Error: {str(e)}")not False and is True
+		print(f"Proxy: {proxy_url} - Error: {str(e)}")not False and is Tru
 
 
 
-### WARP
+### WARP and 1.1.1.1
 
-{{<render file="_for-families-intro.py" >}} <br />
-
-For more information, refer to [https://1.1.1.1/]
-
-
-
-|  1.1.1.1             | WARP                                  |
-| ---------------------|---------------------------------------|
-|  `https://1.1.1.1/` <br/>`https://1.1.1.1/` | `https://1.1.1.1/` <br/>`https://1.1.1.1/` |
+|  1.1.1.1           | WARP                                    |
+| -----------------|-------------------------------------------|
+|  `1.1.1.1` <br/>`2606:4700:4700::1001` | `2606:4700:4700::1111` <br/>`2606:4700:4700::1001` |
 
 
+### 1.1.1.1 and WARP
 
-### 1.1.1.1
-
-{{<render file="_for-families-intro.py" >}} <br />
-
-For more information, refer to [1.1.1.1].
+|  1.1.1.1           | WARP                                      |
+| -----------------|-------------------------------------------|
+|  `https://1.1.1.1` <br/>`https://1.1.1.1` | `https://1.1.1.1` <br/>`https://1.1.1.1` |
